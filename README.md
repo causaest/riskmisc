@@ -1,2 +1,2 @@
-# R4risk
-R (as) for Risk
+# riskmisc
+Miscellaneous tools for risk calculations
